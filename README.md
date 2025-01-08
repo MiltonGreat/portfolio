@@ -1,15 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Milton the Great!👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** who loves turning data into actionable insights. I specialize in machine learning, data visualization, and statistical modeling. Explore my repositories to see how I approach real-world problems with data science.
+Welcome to my GitHub profile! I'm a passionate **Data Analyst** who loves turning data into actionable insights. I specialize in machine learning, data visualization, and statistical modeling. Explore my repositories to see how I approach real-world problems with machine learning tools.
 
 ## 🌟 About Me
 
-- 🎓 **Education**: [Your Degree] in [Your Field] from [Your University]
-- 💼 **Current Role**: [Your Role] at [Your Company]
+- 🎓 **Education**: Masters of Public Administration (UVic) and Diploma of Accountancy (McGill)
+- 💼 **Certificatione**: Azure Foundation (on-going), Data Science Bootcamp (partially completed)
 - 🧠 **Areas of Interest**: Machine Learning, Natural Language Processing, Data Visualization
-- 🌱 **Currently Learning**: [Specific Skill/Technology]
-- 🌎 **Portfolio**: [Link to your portfolio website]
-- 📫 **Contact Me**: [Your Email Address] | [LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 🌱 **Currently Learning**: Generative AI Engineering, AI Azure (https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering)
+- 🌎 **Portfolio**: [[Link to your portfolio website]](https://miltonwani9.wordpress.com/)
+- 📫 **Contact Me**: [Your Email Address](miltonwani1@gmail.com) | [LinkedIn Profile](https://linkedin.com/in/your-profile)
 
 ## 🚀 Featured Projects
 
@@ -27,11 +27,12 @@ Here are some of my favorite projects:
 
 ## 🛠️ Skills
 
-- Programming: Python, R, SQL
+- Programming: Python, SQL
 - Machine Learning: Scikit-learn, TensorFlow, PyTorch
 - Visualization: Matplotlib, Seaborn, Power BI, Tableau
-- Cloud Platforms: AWS, Azure
-- Tools: Git, Jupyter Notebook, VS Code
+- Cloud Platforms: Azure
+- Tools: GitHub, Jupyter Notebook
+- Statistical Analysis: SAS, SPSS
 
 ## 📊 GitHub Stats
 
