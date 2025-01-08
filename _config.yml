@@ -1,2 +1,12 @@
-title: Milton the Great
+title: "Milton's Portfolio"
+description: "Showcasing my data science projects and skills."
 theme: jekyll-theme-minimal
+url: "https://miltongreat.github.io/portfolio/"
+author:
+  name: "Milton"
+  email: "miltonwani1@gmail.com"
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/miltonwani/
+  - name: GitHub
+    url: https://github.com/MiltonGreat
