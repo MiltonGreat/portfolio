@@ -1,3 +1,6 @@
-# portfolio
+# Hello, I'm Milton!
 
-### Stuff
+### Business Intelligence Analyst focusing on applied AI
+
+- Canada
+- 
