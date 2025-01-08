@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** who loves turnin
 - 💼 **Certificatione**: Azure Foundation (on-going), Data Science Bootcamp (partially completed)
 - 🧠 **Areas of Interest**: Machine Learning, Natural Language Processing, Data Visualization
 - 🌱 **Currently Learning**: Generative AI Engineering, AI Azure (https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering)
-- 🌎 **Portfolio**: [Link to my portfolio website (https://miltonwani9.wordpress.com/)
+- 🌎 **Portfolio**: [Link to my portfolio website]([miltonwani1@gmail.com](https://miltonwani9.wordpress.com/))
 - 📫 **Contact Me**: [My Email Address](miltonwani1@gmail.com) | [LinkedIn Profile](https://linkedin.com/in/your-profile)
 
 ## 🚀 Featured Projects
