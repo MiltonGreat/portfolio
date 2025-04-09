@@ -51,7 +51,6 @@ Here are some of my favorite projects:
 - Visualization: Matplotlib, Seaborn, Power BI, Tableau
 - Cloud Platforms: Azure
 - Tools: GitHub, Jupyter Notebook
-- Statistical Analysis: SAS, SPSS
 
 ## 📊 GitHub Stats
 
